@@ -1,2 +1,6 @@
-# pico_plotter
-Raspberry Pi Pico based plotter
+# MicroPlotter
+
+A simple Raspberry Pi Pico-based plotter using MicroPython.
+
+---
+
