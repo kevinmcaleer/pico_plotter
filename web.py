@@ -1,8 +1,9 @@
 # Web controlled plotter
 # Wifi code based on Pimoroni Phew!
 # https://www.github.com/pimoroni/phew
-# 20 June 2025
 # Kevin McAleer
+# Pico Plotter Project
+# 20 June 2025
 
 import network
 import time

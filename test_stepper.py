@@ -1,3 +1,7 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
+
 from stepper import StepperMotor
 from time import sleep
 

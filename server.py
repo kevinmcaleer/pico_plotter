@@ -1,7 +1,8 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 20 June 2025
 # from Pimoroni Phew!
 # https://www.github.com/pimoroni/phew
-# 20 June 2025
-# Kevin McAleer
 
 import uasyncio, os, time
 from . import logging

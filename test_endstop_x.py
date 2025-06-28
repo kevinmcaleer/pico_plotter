@@ -1,3 +1,6 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
 # end stop test
 
 from machine import Pin

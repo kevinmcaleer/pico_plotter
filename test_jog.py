@@ -1,3 +1,6 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
 # test pen
 from stepper import StepperMotor
 

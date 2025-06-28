@@ -1,7 +1,8 @@
 # text_wifi.py
 # Tests Wifi connectivity and displays web interface
-# 20 June 2025
 # Kevin McAleer
+# Pico Plotter Project
+# 20 June 2025
 
 import asyncio
 from machine import WDT, Pin

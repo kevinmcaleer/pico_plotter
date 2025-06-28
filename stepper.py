@@ -1,3 +1,7 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
+
 # In stepper.py
 from time import sleep_us
 class StepperMotor:
@@ -59,7 +63,6 @@ class StepperMotor:
                 except Exception as e:
                     print(f"Error during sleep: {e}")
         self.stop()
-
 
     def stop(self):
         self.set_step((0, 0, 0, 0))

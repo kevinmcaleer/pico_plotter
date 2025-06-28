@@ -1,3 +1,7 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
+
 # example script to show how uri routing and parameters work
 #
 # create a file called secrets.py alongside this one and add the

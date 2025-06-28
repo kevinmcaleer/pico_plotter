@@ -1,4 +1,8 @@
-# main.py – MicroPython GRBL emulator for UGS with robust reconnect handling
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
+
+# main.py – MicroPython GRBL emulator for CNCJS with robust reconnect handling
 
 from time import sleep, ticks_ms, ticks_diff
 from stepper import StepperMotor

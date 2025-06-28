@@ -1,3 +1,6 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
 # test jog
 from stepper import StepperMotor
 from time import sleep
