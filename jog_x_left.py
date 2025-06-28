@@ -1,3 +1,5 @@
+# Kevin McAleer
+# 28 June 2025
 # jog X left
 
 from stepper import StepperMotor
