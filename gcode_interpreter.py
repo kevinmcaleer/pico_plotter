@@ -1,3 +1,6 @@
+# Kevin McAleer
+# 28 June 2025
+
 import sys
 class GCodeInterpreter:
     def __init__(self, motor_x, motor_y, motor_z):
