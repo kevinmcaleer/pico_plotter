@@ -1,8 +1,9 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 20 June 2025
 # logging
 # from Pimoroni Phew!
 # https://www.github.com/pimoroni/phew
-# 20 June 2025
-# Kevin McAleer
 
 import machine, os, gc
 
