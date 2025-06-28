@@ -1,3 +1,7 @@
+# Kevin McAleer
+# Pico Plotter Project
+# 28 June 2025
+
 # GRBL controller for a simple plotter machine using MicroPython
 
 from machine import Pin, UART
